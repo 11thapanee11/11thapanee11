@@ -41,29 +41,27 @@
 
 ---
 
-## ✍🏻 Recent Blog / Talks
-<!-- GH Action can automate this section; placeholder for manual list -->
-- ⟪May 2025⟫ • **Observable-Ready Dashboards** at BangkokJS  
-- ⟪Apr 2025⟫ • Published *“Scalable Monorepo Patterns”* on Medium  
-- ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: *Modern DevOps*
+## 🎯 Current Focus
+* 🚀 Building and refining full-stack web application projects.
+* 💬 Enhancing my English communication skills for work.
+* 🎨 Crafting intuitive UI/UX for better user experiences.
 
 ---
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪USERNAME⟫&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪USERNAME⟫&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪11thapanee11⟫&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪11thapanee11⟫&layout=compact&hide_border=true" />
 </div>
 
 ---
 
 ## 🤝 Let’s Connect
-> **“Great products are built by great people working together.”**
+> **“Dedicated and continuous learning in every step of the journey.”**
 
-- 💌 Email: ⟪email@example.com⟫  
-- 📝 Schedule a coffee chat: ⟪Calendly link⟫  
-- 🐦 DM me on [X/Twitter](⟪url⟫)
+- 💌 Email: ⟪t.thapanee.m@gmail.com⟫  
+- 🐦 DM me on [Facebook](⟪[url](https://www.facebook.com/thapanee.muengsongwong)⟫)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=⟪11thapanee11⟫&style=flat-square" alt="profile views"/>
 </p>
