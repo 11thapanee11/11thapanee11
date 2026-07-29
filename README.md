@@ -50,8 +50,8 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪11thapanee11⟫&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪11thapanee11⟫&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=11thapanee11&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11thapanee11&layout=compact&hide_border=true" />
 </div>
 
 ---
@@ -59,9 +59,9 @@
 ## 🤝 Let’s Connect
 > **“Dedicated and continuous learning in every step of the journey.”**
 
-- 💌 Email: ⟪t.thapanee.m@gmail.com⟫  
-- 🐦 DM me on [Facebook](⟪[https://www.facebook.com/thapanee.muengsongwong]⟫)
+- 💌 Email: t.thapanee.m@gmail.com  
+- 📘 Facebook: [Thapanee Muengsongwong](https://www.facebook.com/thapanee.muengsongwong)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=⟪11thapanee11⟫&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=11thapanee11&style=flat-square" alt="profile views"/>
 </p>
