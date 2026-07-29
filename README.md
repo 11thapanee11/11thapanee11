@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="banner" alt="banner.png" />
+  <img src="banner.png" alt="banner" />
 </p>
 
 <h1 align="center">Hi, I’m ⟪Thapnee Muangsongwong⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
