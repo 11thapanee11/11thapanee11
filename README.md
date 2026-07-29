@@ -60,7 +60,7 @@
 > **“Dedicated and continuous learning in every step of the journey.”**
 
 - 💌 Email: ⟪t.thapanee.m@gmail.com⟫  
-- 🐦 DM me on [Facebook](⟪[url](https://www.facebook.com/thapanee.muengsongwong)⟫)
+- 🐦 DM me on [Facebook](⟪[https://www.facebook.com/thapanee.muengsongwong]⟫)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=⟪11thapanee11⟫&style=flat-square" alt="profile views"/>
