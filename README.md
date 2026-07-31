@@ -38,7 +38,7 @@ Passionate about web development using React, Java Spring Boot, and MySQL. Alway
 ## 📌 Featured Projects
 | Project | Tech | Highlights | Links |
 | :--- | :--- | :--- | :--- |
-| **⟪Food Donation Platform⟫** | React · Java (Spring Boot) · Google Maps API | "Driving efficient food donation management by seamlessly connecting donors and recipients with Google Maps API integration." | [Repo](https://github.com/11thapanee11/food-donation) |
+| **⟪Food Donation Management Platform⟫** | React · Java (Spring Boot) · Google Maps API | "Driving efficient food donation management by seamlessly connecting donors and recipients with Google Maps API integration." | [Repo](https://github.com/11thapanee11/food-donation) |
 
 ---
 
