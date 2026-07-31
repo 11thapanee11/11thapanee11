@@ -1,7 +1,16 @@
 <!-- Banner / Cover -->
-<p align="center">
+<!-- <p align="center">
   <img src="banner.png" alt="banner" />
+</p> -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23,24,25,26,27&height=250&section=header&text=Thapanee%20Muangsongwong&fontSize=32&fontColor=ffffff&textAlign=50&textAlignY=45&desc=Information%20Technology%20Student%20%E2%80%A2%20Aspiring%20Full-stack%20Developer&descSize=14&descAlign=50&descAlignY=62"
+    width="100%"
+    alt="Header Banner"
+  />
 </p>
+
+
 
 <h1 align="center">Hi, I’m ⟪Thapnee Muangsongwong⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
@@ -13,7 +22,7 @@
 ---
 
 ## 🚀 About Me
-Passionate about web development using React, Java Spring Boot, and MySQL. Always eager to learn new technologies and proficient in leveraging AI tools to assist with debugging and effective problem-solving in software development. ✨
+A 4th-year Information Technology student with hands-on full-stack development experience. Detail-oriented with strong problem-solving skills in code debugging and refactoring, enhanced by AI tools. Highly responsible, adaptable, and possesses effective time-management skills gained from part-time work. Eager to leverage technical and collaborative skills as a Full-Stack Developer Intern. ✨
 - 🌱  I’m currently learning **⟪Node.js, MongoDB⟫**  
 - 🛠  Daily driver stack: **⟪React, JavaScript, Java Spring Boot, MySQL⟫**  
 - 🎯  2026 Goal: **⟪Securing a Tech Internship & mastering modern Web Development⟫**  
