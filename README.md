@@ -13,6 +13,7 @@
 ---
 
 ## 🚀 About Me
+Passionate about web development using React, Java Spring Boot, and MySQL. Always eager to learn new technologies and proficient in leveraging AI tools to assist with debugging and effective problem-solving in software development. ✨
 - 🌱  I’m currently learning **⟪Node.js, MongoDB⟫**  
 - 🛠  Daily driver stack: **⟪React, JavaScript, Java Spring Boot, MySQL⟫**  
 - 🎯  2026 Goal: **⟪Securing a Tech Internship & mastering modern Web Development⟫**  
