@@ -3,11 +3,7 @@
   <img src="banner.png" alt="banner" />
 </p> -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,e5a0b8,cfadc4,abb6cf,8cc7db&height=250&section=header&text=Thapanee%20Muangsongwong&fontSize=32&fontColor=ffffff&textAlign=50&textAlignY=45&desc=Information%20Technology%20Student%20%E2%80%A2%20Aspiring%20Full-stack%20Developer&descSize=14&descAlign=50&descAlignY=62"
-    width="100%"
-    alt="Header Banner"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=D99AB2,C4B9D2,A8C9E4,92D3EC&height=250&section=header&text=Thapanee%20Muangsongwong&fontSize=32&fontColor=ffffff&textAlign=50&textAlignY=45&desc=Information%20Technology%20Student%20%E2%80%A2%20Aspiring%20Full-stack%20Developer&descSize=14&descAlign=50&descAlignY=62" width="100%" alt="Header Banner" />
 </p>
 
 <h1 align="center">Hi, I’m ⟪Thapnee Muangsongwong⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
