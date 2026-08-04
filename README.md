@@ -42,6 +42,7 @@ A 4th-year Information Technology student with hands-on full-stack development e
 | Project | Tech | Highlights | Links |
 | :--- | :--- | :--- | :--- |
 | **⟪Food Donation Management Platform⟫** | React · Java (Spring Boot) · Google Maps API | "Driving efficient food donation management by seamlessly connecting donors and recipients with Google Maps API integration." | [Repo](https://github.com/11thapanee11/food-donation) |
+| **⟪LunaRest - Sleep-Tech UI/UX Design⟫** | Figma · UI/UX Design · Brand Identity | "Designed a minimalist, soft-gradient UI/UX interface and complete brand identity for a sleep-tech platform." | [Figma](https://www.figma.com/design/ajiVkt5FQlgGPHLU1huPsD/LunaRest?node-id=0-1&p=f&t=ZFOaypHgsPlel27m-0) |
 
 ---
 
