@@ -39,16 +39,15 @@ A 4th-year Information Technology student seeking a **Cooperative Education Inte
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- |
-| **Food Donation Management Platform** | `React` · `Spring Boot` · `Google Maps API` | Driving efficient food donation management by seamlessly connecting donors and recipients with Google Maps API integration. | [![Repo](https://img.shields.io/badge/GitHub-Repository-B0BEC5?style=flat-square&logo=github&logoColor=black)](https://github.com/11thapanee11/food-donation) |
+| **Food Donation Management Platform** | `React` · `Spring Boot` · `Google Maps API` | Leveraged relational database management and full-stack development to track and improve food donation distribution. | [![Repo](https://img.shields.io/badge/GitHub-Repository-B0BEC5?style=flat-square&logo=github&logoColor=black)](https://github.com/11thapanee11/food-donation) |
 | **LunaRest - Sleep-Tech UI/UX Design** | `Figma` · `UI/UX` · `Brand Identity` | Designed a minimalist, soft-gradient UI/UX interface and complete brand identity for a sleep-tech platform. | [![Figma](https://img.shields.io/badge/Figma-Prototype-FF8A80?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/design/ajiVkt5FQlgGPHLU1huPsD/LunaRest?node-id=0-1&p=f&t=ZFOaypHgsPlel27m-0) |
 
 ---
 
 ## 📈 GitHub Statistics
-
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=11thapanee11&show_icons=true&hide_border=true&count_private=true&title_color=A8C9E4&text_color=555555&icon_color=C4B9D2" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=11thapanee11&layout=compact&hide_border=true&count_private=true&title_color=A8C9E4&text_color=555555" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=11thapanee11&show_icons=true&hide_border=true&count_private=true&title_color=A8C9E4&text_color=555555&icon_color=C4B9D2" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=11thapanee11&layout=compact&hide_border=true&count_private=true&title_color=A8C9E4&text_color=555555" />
 </div>
 
 ---
