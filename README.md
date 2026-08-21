@@ -1,22 +1,23 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=D99AB2,C4B9D2,A8C9E4,92D3EC&height=250&section=header&text=Thapanee%20Muangsongwong&fontSize=32&fontColor=ffffff&textAlign=50&textAlignY=45&desc=Information%20Technology%20Student%20%E2%80%A2%20Aspiring%20Full-stack%20Developer&descSize=14&descAlign=50&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=D99AB2,C4B9D2,A8C9E4,92D3EC&height=250&section=header&text=Thapanee%20Muangsongwong&fontSize=32&fontColor=ffffff&textAlign=50&textAlignY=45&desc=Information%20Technology%20Student%20%E2%80%A2%20" width="100%" alt="Header Banner" />
 </p>
 
 <!-- Typing Animation Profile Bio -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A8C9E4&center=true&vCenter=true&width=600&lines=Hi!+I'm+Thapanee+Muangsongwong;Information+Technology+Student;Aspiring+Full-stack+Developer;Building,+breaking,+learning,+and+rebuilding." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A8C9E4&center=true&vCenter=true&width=600&lines=Hi!+I'm+Thapanee+Muangsongwong;Information+Technology+Student;Data+Analysis+%26+Developer+Intern;Turning+Data+into+Insights+%26+Building+Solutions." alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ## 🚀 About Me
-A 4th-year Information Technology student with hands-on full-stack development experience. Detail-oriented with strong problem-solving skills in code debugging and refactoring, enhanced by AI tools. Highly responsible, adaptable, and possesses effective time-management skills gained from part-time work. Eager to leverage technical and collaborative skills as a Full-Stack Developer Intern. ✨
-- 🌱  I’m currently learning **⟪Node.js, MongoDB⟫**  
-- 🛠  Daily driver stack: **⟪React, JavaScript, Java Spring Boot, MySQL⟫**  
-- 🎯  2026 Goal: **⟪Securing a Tech Internship & mastering modern Web Development⟫**  
+A 4th-year Information Technology student seeking a **Cooperative Education Internship** as a **Data Analysis and Developer Intern**. Skilled in SQL database management, data manipulation with Python, and full-stack integration using React and Java Spring Boot. Detail-oriented with strong analytical thinking, efficient debugging skills, and effective adaptiveness. Eager to leverage both analytical and development skills to drive data-driven software solutions. ✨
+
+- 🌱  I’m currently focused on **⟪Advanced Data Analytics & Modern Web Development⟫**  
+- 🛠  Daily driver stack: **⟪Python, SQL, MySQL, React, JavaScript, Java Spring Boot⟫**  
+- 🎯  2026 Co-op Goal: **⟪Securing a Data Analysis & Developer Internship⟫**  
 - 📫  Reach me: **⟪t.thapanee.m@gmail.com⟫**
 
 ---
@@ -27,7 +28,7 @@ A 4th-year Information Technology student with hands-on full-stack development e
 | Domain | Primary Stack | Comfortable |
 | :--- | :--- | :--- |
 | **Front-end** | ![React](https://img.shields.io/badge/React-80E5FF?style=flat-square&logo=react&logoColor=005570) ![JavaScript](https://img.shields.io/badge/JavaScript-FFE885?style=flat-square&logo=javascript&logoColor=323330) ![HTML5](https://img.shields.io/badge/HTML5-FF9E80?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-80C1FF?style=flat-square&logo=css3&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-CDB4DB?style=flat-square&logo=bootstrap&logoColor=white) |
-| **Back-end** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-B2EBF2?style=flat-square&logo=springboot&logoColor=004D40) ![Spring MVC](https://img.shields.io/badge/Spring_MVC-B2EBF2?style=flat-square&logo=spring&logoColor=004D40) | ![Node.js](https://img.shields.io/badge/Node.js-A8E6CF?style=flat-square&logo=node.js&logoColor=1B5E20) ![Python](https://img.shields.io/badge/Python-9FA8DA?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-90CAF9?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Back-end** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-B2EBF2?style=flat-square&logo=springboot&logoColor=004D40) ![Spring MVC](https://img.shields.io/badge/Spring_MVC-B2EBF2?style=flat-square&logo=spring&logoColor=004D40) ![Python](https://img.shields.io/badge/Python-9FA8DA?style=flat-square&logo=python&logoColor=white) | ![C++](https://img.shields.io/badge/C++-90CAF9?style=flat-square&logo=cplusplus&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-90CAF9?style=flat-square&logo=mysql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-A5D6A7?style=flat-square&logo=mongodb&logoColor=1B5E20) ![Firebase](https://img.shields.io/badge/Firebase-FFE082?style=flat-square&logo=firebase&logoColor=333333) ![Oracle](https://img.shields.io/badge/Oracle-FFAB91?style=flat-square&logo=oracle&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-81D4FA?style=flat-square&logo=sqlite&logoColor=white) |
 | **Tools & Design** | ![Figma](https://img.shields.io/badge/Figma-FF8A80?style=flat-square&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FFAB91?style=flat-square&logo=postman&logoColor=white) | ![Git](https://img.shields.io/badge/Git-FF8A65?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-B0BEC5?style=flat-square&logo=github&logoColor=212121) |
 
