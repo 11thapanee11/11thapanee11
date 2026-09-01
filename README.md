@@ -6,7 +6,7 @@
 <!-- Typing Animation Profile Bio -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A8C9E4&center=true&vCenter=true&width=600&lines=Hi!+I'm+Thapanee+Muangsongwong;Information+Technology+Student;Data+Analysis+%26+Developer+Intern;Turning+Data+into+Insights+%26+Building+Solutions." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A8C9E4&center=true&vCenter=true&width=600&lines=Hi!+I'm+Thapanee+Muangsongwong;Information+Technology+Student" alt="Typing SVG" />
   </a>
 </p>
 
