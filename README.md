@@ -34,7 +34,6 @@ A 4th-year Information Technology student seeking a Cooperative Education Intern
 | **AI Assistants** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-A5D6A7?style=flat-square&logo=openai&logoColor=1B5E20) ![Copilot](https://img.shields.io/badge/Copilot-80E5FF?style=flat-square&logo=githubcopilot&logoColor=005570) ![Gemini](https://img.shields.io/badge/Gemini-80C1FF?style=flat-square&logo=googlegemini&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-FFB74D?style=flat-square&logo=anthropic&logoColor=white) |
 
 </div>
----
 
 ## 📌 Featured Projects
 
