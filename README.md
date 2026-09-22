@@ -35,6 +35,8 @@ A 4th-year Information Technology student seeking a Cooperative Education Intern
 
 </div>
 
+---
+
 ## 📌 Featured Projects
 
 | Project | Tech Stack | Highlights | Links |
