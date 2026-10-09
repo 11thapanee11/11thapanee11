@@ -46,6 +46,34 @@ A 4th-year Information Technology student seeking a Cooperative Education Intern
 
 ---
 
+## ☁️ Featured Project
+
+<div align="center">
+
+### 🍲 Food Donation Management Platform
+✨ *A web application for connecting and managing surplus food distribution.* ✨
+
+</div>
+
+<br>
+
+> **🌸 Tech Stack & Tools**
+> `React` · `Spring Boot` · `Google Maps API`
+> 
+> **🌱 Key Highlights**
+> Designed and developed a full-stack system with relational database management to track and optimize food donation distribution.
+
+<div align="center">
+
+<br>
+
+[![Web Demo](https://img.shields.io/badge/🌷_Live_Demo-%23c084fc?style=for-the-badge&logoColor=white)](https://food-doation.netlify.app) &nbsp;&nbsp;&nbsp; 
+[![GitHub Repository](https://img.shields.io/badge/📂_GitHub_Repo-%23B0BEC5?style=for-the-badge&logo=github&logoColor=black)](https://github.com/11thapanee11/food_donation)
+
+</div>
+
+---
+
 ## 📈 GitHub Statistics
 <div align="center">
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=11thapanee11&show_icons=true&hide_border=true&count_private=true&title_color=A8C9E4&text_color=555555&icon_color=C4B9D2" />
