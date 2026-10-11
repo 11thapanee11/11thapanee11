@@ -22,6 +22,16 @@ A 4th-year Information Technology student seeking a Cooperative Education Intern
 
 ---
 
+<div align="center">
+
+<br>
+
+[![✨ Explore My Portfolio Website](https://img.shields.io/badge/✨_Explore_My_Portfolio_Website-%23A8C9E4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thapanee-portfolio.netlify.app)
+
+</div>
+
+---
+
 ## 🧰 Tech Stack & Tools
 <div align="center">
 
