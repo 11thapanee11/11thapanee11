@@ -13,11 +13,11 @@
 ---
 
 ## 🚀 About Me
-A 4th-year Information Technology student seeking a Cooperative Education Internship as a Full-Stack Developer Intern. Skilled in building end-to-end web applications using React, Java Spring Boot, and relational databases (MySQL/Oracle). Passionate about clean code, API integration, and leveraging AI tools to optimize development workflows. Detail-oriented with strong analytical thinking, effective problem-solving, and adaptiveness. Eager to apply technical expertise to real-world software solutions and contribute effectively to team collaboration. ✨
+A 4th-year Information Technology student seeking a Cooperative Education Internship as a UX/UI Designer Intern. Skilled in UI/UX design, wireframing, and creating user-centered digital interfaces using Figma. Backed by a strong foundation in full-stack web development (React, Java Spring Boot), bringing a unique developer-friendly perspective to bridge the gap between design and implementation. Detail-oriented with strong analytical thinking, effective problem-solving, and a passion for crafting seamless, intuitive user experiences to contribute effectively to team collaboration. ✨
 
-- 🌱 I’m currently focused on **⟪Full-Stack Web Development & Modern Web Architecture⟫**  
-- 🛠  Daily driver stack: **⟪MySQL, React, Java Spring Boot, JavaScript⟫**  
-- 🎯 2026 Co-op Goal: **⟪Securing a Full-Stack Developer Internship⟫**
+- 🌱 I’m currently focused on **⟪UI/UX Design Systems, Usability Testing & Soft-Gradient Web Interfaces⟫**  
+- 🛠  Daily driver stack: **⟪Figma, HTML5/CSS3, MySQL, React, Java Spring Boot, JavaScript⟫**  
+- 🎯 2026 Co-op Goal: **⟪Securing a UX/UI Designer Internship⟫**
 - 📫 Reach me: **⟪t.thapanee.m@gmail.com⟫**
 
 ---
